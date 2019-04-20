@@ -4,7 +4,6 @@ __________________ For example, while watching a movie maybe the endgame.
 -Proposed Solution: Free chat rooms provide means to chat with friends and families privately.
 __________________ What makes these chat sites different from other chat rooms is that they're meant specifically for on-demand, one-on-one or group chatting between people you know.
 __________________ When both of you set up an account, you can chat privately with just each other, often from your computer, phone, or ?tablet.
-__________________ Most free private chat room providers require a screen name or account before you can use them.
   
 -Language Used:
   1.HTML
