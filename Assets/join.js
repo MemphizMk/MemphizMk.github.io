@@ -491,7 +491,7 @@ $(document).ready(function() {
                  console.log("aldready signed in");
             }
         } else {
-            toastr.error("Enter all the fields !);
+            toastr.error("Enter all the fields!");
             loader(false);
         }
         loader(false);
