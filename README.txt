@@ -1,5 +1,5 @@
 -Problem Statment:
-  Way to chat with a bunch of friends in a newtwork.
+  Way to chat with a bunch of friends.
 __________________ For example, while watching a movie maybe the endgame.
 -Proposed Solution: Free chat rooms provide means to chat with friends and families privately.
 __________________ What makes these chat sites different from other chat rooms is that they're meant specifically for on-demand, one-on-one or group chatting between people you know.
